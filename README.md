@@ -9,3 +9,4 @@
 _ 1. Challenges
 _ 2. Obstacles
 ![smart brean](https://lieslkeen.com/wp-content/uploads/2019/08/brain3.jpg)
+![new picture](https://www.emaratalyoum.com/polopoly_fs/1.1274341.1573924212!/image/image.jpg)
