@@ -1,4 +1,4 @@
-![image](https://rokkey.com/static/6fd1b9aa3f5be338626a60748002a876/b4f03/nextjscover.jpg)
+![image](https://e3arabi.com/wp-content/uploads/2021/01/%D8%A3%D8%B7%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D9%84%D8%BA%D8%A9-%D8%AC%D8%A7%D9%81%D8%A7-%D8%B3%D9%83%D8%B1%D8%B3%D9%8A%D8%A8%D8%AA.png)
 # what JavaScript?
 * JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions
 ## why we uset it?
