@@ -1,11 +1,11 @@
-# reading-notes-Repo
-# How you can benefit from a growth mindset
-1. The growth mindset can open pathways to more creativity and possibility
-2.  and enable the setting of higher goals and more achievement
-# What is a growth mindset?
-* A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort
-* By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
-## Perseverance, gumption traps, and maintaining a growth mindset
-_ 1. Challenges
-_ 2. Obstacles
-![new picture](https://www.emaratalyoum.com/polopoly_fs/1.1274341.1573924212!/image/image.jpg)
+# intro
+* My name is: Mansour Al-Batran. I am 30 years old. I graduated from the Faculty of Civil Engineering in Aleppo.. I love to visit the mountainous areas and ride horses.. My favorite meal is fish.
+* Table of Contents
+
+| name file     |the link            |
+| ------------- | ------------------ |
+| reading01     |[link](reading01.md)|
+| reading02     |[link](reading02.md)|
+| reading03     |[link](reading03.md)|
+| reading06     |[link](reading06.md)|
+| reading04     |[link](reading04.md)|
